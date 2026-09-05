@@ -210,3 +210,11 @@ consequence of its use.
 
 MIT — see [LICENSE](LICENSE). Third-party dependency notes are in
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+## PM/Product Manager Assessment
+
+This fork contains two proposed AI workflows:
+
+- [PM Weekly Review](workflows/pm-weekly-review/pm-weekly-review.md)
+- [Personal Weekly Review](workflows/personal-weekly-review/personal-weekly-review.md)
+- [Full Case Study](submission/README.md)
